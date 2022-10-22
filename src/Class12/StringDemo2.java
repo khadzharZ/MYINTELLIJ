@@ -14,6 +14,6 @@ false even if you have
 count the spaces
  */
         System.out.println(str.isEmpty());
-        System.out.println(str.isBlank());
+
     }
 }
